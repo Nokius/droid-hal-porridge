@@ -8,6 +8,8 @@
 
 %define installable_zip 1
 
+%define droid_target_aarch64 1
+
 #For OTA
 %define enable_kernel_update 1
 
